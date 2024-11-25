@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋 I'm Lilium (she/her)
+
+I’ve been a LAMP stack developer since June 2020, proficient in HTML, CSS, JavaScript, jQuery, PHP, SQL, with additional experience in React/React Native. I’m currently expanding my skills in Laravel, Bootstrap, Tailwind, and AWS.
 
 <!--
 **liliumholden/LiliumHolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on building a web and mobile app for my guided meditations. Apart from my 9-to-5, I’m also a certified meditation instructor!
+🌱 I’m currently learning Laravel (shoutout to Jeffrey Way!) 
+🐾 When I’m not coding, I enjoy playing tennis with my kids, exploring meditation practices, and cuddling with my 3 (yes, 3) cats. 
+📫 [Email Me](mailto:liliumholden@gmail.com)
