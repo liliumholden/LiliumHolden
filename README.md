@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on building a web and mobile app for my guided meditations. Apart from my 9-to-5, I’m also a certified meditation instructor!
-🌱 I’m currently learning Laravel (shoutout to Jeffrey Way!) 
-🐾 When I’m not coding, I enjoy playing tennis with my kids, exploring meditation practices, and cuddling with my 3 (yes, 3) cats. 
-📫 [Email Me](mailto:liliumholden@gmail.com)
+- 🔭 I’m currently working on building a web and mobile app for my guided meditations. Apart from my 9-to-5, I’m also a certified meditation instructor!
+- 🌱 I’m currently learning Laravel (shoutout to Jeffrey Way!) 
+- 🐾 When I’m not coding, I enjoy playing tennis with my kids, exploring meditation practices, and cuddling with my 3 (yes, 3) cats. 
+- 📫 [Email Me](mailto:liliumholden@gmail.com)
